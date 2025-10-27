@@ -1,0 +1,8 @@
+import time
+import random
+
+while True:
+    print("🔴 RED LED ON")
+    time.sleep(1)
+    print("⚫ RED LED OFF")
+    time.sleep(1)
